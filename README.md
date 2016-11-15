@@ -7,6 +7,3 @@ In this lecture, we learned about the agile philosophy and how it is applied in 
 
 Session 4 - Tinkering Graphics I
 During this lecture, we learned how to apply graphics -- such as printing "Hello world!" with different background colours. The challenging part was the actual application of said graphics, as I was quite uncertain on what you really had to type in order to get your wanted results. I overcame this challenge by reading the tutorial guides on pygame's website, and by taking a peek at the code that was submitted on Slack by other students to further understand and analyse what I was actually implementing. 
-
-In general:
-Time management has become an apparent challenge after realising what will need to be done throughout the coming months. Activities and submissions  like reading and writing for the research journal & agile essay while dedicating time to learn Python programming - among others - have started to inflict overwhelming feelings. Although this is not surprising, as these are indeed our first steps toward a competitive field in the industry. 
