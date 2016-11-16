@@ -12,3 +12,6 @@ During our Comp-110 lecture this week, we were introduced to object oriented pro
 -- Week 5 --
 This week I was faced with a challenge of deciding a research question for my agile essay and preparing a presentation about it. I had a few vague ideas regarding that, although it was later revealed that I needed to construct a more specific question. Eventually, I decided to present my essay slides privately to my tutor, as I am generally not confident with presenting in front of other people, mostly due to my speaking/oral skills since English isn't exactly my native language. Despite all this, I eventually managed to construct a more specific question with help from my tutor for my agile essay. I will also practice my presentation skills more in order for me to improve both my confidence and oral skills.
 
+-- Week 8 --
+As time moves forward, the closer our first definite deadline approaches - which is next week, actually. 
+
