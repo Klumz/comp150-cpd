@@ -1,5 +1,14 @@
 # comp150-cpd
 
+## Week 1
+The first week is the week we met our classmates for the first time. Eventually we started working on a LEGO robot, where half of the team would assemble the robot itself while the other half programmed it to complete the various tasks that were given. A challenge I encountered was generally getting to know and communicate with each other, which is something I've been struggling with for longer than I'd like to admit. To improve on this, getting to know my surroundings and people should prove beneficial.  
+
+## Week 2
+This week, we practiced game ideation and applied them on paper. The challenge we faced involved using too much time and effort on the ideation itself and less on the working prototype. We addressed this by halting time spent on the ideation and more towards the working prototype, which we ended up completing right before demonstrating it to the class. 
+
+## Week 3
+This week we worked on designing another paper prototype for a text-based game, although in different groups. One of the two challenges I faced with was adapting to a new group of people and putting myself out there. The other challenge was coming up with realistic ideas for the the prototype, as we became too ambitious at times. To address these, continuing getting to know each other should be helpful, as well as learning to narrow down ideas in order to avoid stretching them more than they need to be. 
+
 ## Week (?)
 In this lecture, we learned about the agile philosophy and how it is applied in SCRUM. In addition, we made a product backlog and a sprint task board using Trello. The major challenge was actually figuring out how each of these worked both alone and together. While they will still take some time to get used to, they have become easier to understand after playing around with them. 
 
