@@ -30,6 +30,9 @@ This week we were had our sprint review for our comp-150 desktop game. This was 
 ## Week 9 
 
 
+# Week 10
+
+
 ## Week 11
 In the comp110 lecture this week, we were shown various mathematical concepts and how to apply them. I found the lecture quite hard to follow, as I am not the best at math. This week we also used a lot of our time on finishing the rest of our desktop game, which we still had quite a bit to finish. Additionally, we had to finish our presentations as well. General time management was the major challenge with the project, which unsurprisingly was a stressful experience, although we managed to get a lot of work done over the weekend which was good. 
 
