@@ -30,7 +30,7 @@ This week we were had our sprint review for our comp-150 desktop game. This was 
 ## Week 9 
 
 
-# Week 10
+## Week 10
 
 
 ## Week 11
