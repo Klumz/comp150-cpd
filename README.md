@@ -21,11 +21,17 @@ During this lecture, we learned how to apply graphics -- such as printing "Hello
 ## Week (?)
 During our Comp-110 lecture this week, we were introduced to object oriented programming. The live coding example was proven useful, however I still have to learn what's actually going on in the code and why certain pieces of code are placed in their locations. Moreover, two more challenges I encountered this week were trying to understand the 3rd research paper - since it involved quite a bit of math -, and creating a research question for my agile essay. To address these, I will revisit the paper again to get a better grasp over it and do some more agile-development research for my research question.
 
-## Week (?)
+## Week 7
 This week I was faced with a challenge of deciding a research question for my agile essay and preparing a presentation about it. I had a few vague ideas regarding that, although it was later revealed that I needed to construct a more specific question. Eventually, I decided to present my essay slides privately to my tutor, as I am generally not confident with presenting in front of other people, mostly due to my speaking/oral skills since English isn't exactly my native language. Despite all this, I eventually managed to construct a more specific question with help from my tutor for my agile essay. I will also practice my presentation skills more in order for me to improve both my confidence and oral skills.
 
 ## Week 8
 This week we were had our sprint review for our comp-150 desktop game. This was our first session in a while where all the team members were present, which led to our productive time in improving and coming up with different ideas for our game. We all took turns and did pair-programming during this lecture, which I thought was helpful and provided clarity. A challenge we were eventually faced with was our Trello board, which wasn't specific enough and contained user stories that weren't thoroughly explained. Improving our user stories by adding more depth and descriptions to them should be the way to go in terms of addressing this challenge.
+
+## Week 9 
+
+
+## Week 11
+In the comp110 lecture this week, we were shown various mathematical concepts and how to apply them. I found the lecture quite hard to follow, as I am not the best at math. This week we also used a lot of our time on finishing the rest of our desktop game, which we still had quite a bit to finish. Additionally, we had to finish our presentations as well. General time management was the major challenge with the project, which unsurprisingly was a stressful experience, although we managed to get a lot of work done over the weekend which was good. 
 
 ## Week 12
 This week we took part in various viva sessions. A challenge I was faced with was properly explaining what my lines of code did, which could be greatly improved. After the viva sessions, my group member and I started pair programming our tinkering-audio project where we decided on adding a decay function, although with minimal help in order for me to understand what the audio code did. While my group member did a great job at explaining parts of the code, it still took a good few hours for me to properly understand and implement the required lines. Going over the tinkering-audio slides and getting a little more hands-on with it should be considered.
