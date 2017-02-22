@@ -35,3 +35,16 @@ In the comp110 lecture this week, we were shown various mathematical concepts an
 
 ## Week 12
 We took part in various viva sessions this week. A challenge I was faced with was properly explaining what my lines of code did, which could be greatly improved. After the viva sessions, my group member and I started pair programming our tinkering-audio project where we decided on letting me add a decay function, although with minimal help in order for me to understand it all thoroughly. While my group member did a great job at explaining parts of the code, it still took a good few hours for me to properly understand and implement the required lines. Going over the tinkering-audio slides and getting a little more hands-on with it should be considered.
+
+# Semester 2
+## Week 1
+Back again after a long holiday break. This week was interesting as we were introduced to new things such as a lecturer, Brian McDonald, a new programming language such as C++ and Unreal Engine 4. A challenge this week was generally learning to use blueprints within the engine, however I am feeling more confident about it compared to traditional programming as it feels easier and beginner-friendly, despite them getting messy overtime. Also, surprisingly, I have come to realise that C++ feels slightly easier than Python somehow.  
+
+## Week 2
+Nothing much new. We mostly continued working on our game project. I finished the item pickup blueprint in the Unreal Engine for our game, although another BSc member already committed their version on Github which is fine, at least I have learned how to do it. A challenge this week was worksheet_B for comp130 which I found confusing. I submitted an incomplete submission but will try to finish it later on once I understand it.
+
+## Week 3
+Again, the usual. A challenge I faced this week was making the inventory system for our game, as it was going to work differently compared to traditional inventory systems. I eventually looked up a tutorial online and managed to implement it while learning it during the process, albeit only a basic inventory for now. Rest of the team will check it out and see how we can modify it to suit the needs of our game. 
+
+## Week 4
+Deadlines are approaching, particularly our game project. Collaboration with the BAs this week was quite unstable. We addressed this by all grouping up together right before the weekend and worked on getting assets in and general integration, which proved to be successful.
