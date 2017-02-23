@@ -44,7 +44,7 @@ Back again after a long holiday break. This week was interesting as we were intr
 Nothing much new. We mostly continued working on our game project. I finished the item pickup blueprint in the Unreal Engine for our game, although another BSc member already committed their version on Github which is fine, at least I have learned how to do it. A challenge this week was worksheet_B for comp130 which I found confusing. I submitted an incomplete submission but will try to finish it later on once I understand it.
 
 ## Week 3
-Nothing much this week either. Though, a challenge I faced was making the inventory system for our game, as it was going to work differently compared to traditional inventory systems. I eventually looked up a tutorial online and managed to implement it while learning it during the process, albeit only a basic inventory for now. Rest of the team will check it out and see how we can modify it to suit the needs of our game. 
+Nothing much this week either. Although, a challenge I faced was making the inventory system for our game, as it was going to work differently compared to traditional inventory systems. I eventually looked up a tutorial online and managed to implement it while learning it during the process, albeit only a basic inventory for now. Rest of the team will check it out and see how we can modify it to suit the needs of our game. 
 
 ## Week 4
 Deadlines are approaching, particularly our game project. Collaboration with the BAs this week was quite unstable. We addressed this by all grouping up together right before the weekend and worked on getting assets in and general integration, which proved to be successful.
