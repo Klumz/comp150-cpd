@@ -59,7 +59,7 @@ Mostly focused on our BA group project again. A few of us came in the studio to 
 This week was our viva week for our comp140/Arduino projects. I had my game concept ready and written on Github, however the game itself was lacking. This was mostly due to the amount of work we've had to do with our BA game project which outweighed all our other ones. As a result, the viva session left much to be desired. This was sort of a wake up call that reminded me to temporarily detach myself from our BA project and use slightly more time on my personal ones. 
 
 ## Week 8
-This week was our show and tell week. We worked intensively on our BA project once again to finish and polish things before the actual showing.
+This week was our show and tell week. We worked intensively on our BA project once again to finish and polish things before the actual showing. During the showing itself, our BA members did a great job at presenting and answered the audience's questions gracefully. I will continue working on the game with the team, although will prioritise our other projects more from now. 
 
 ## Week 9
 
