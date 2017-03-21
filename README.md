@@ -48,3 +48,12 @@ Nothing much this week either. Although, a challenge I faced was making the inve
 
 ## Week 4
 Deadlines are approaching, particularly our game project. Collaboration with the BAs this week was quite unstable. We addressed this by all grouping up together right before the weekend and worked on getting assets in and general integration, which proved to be successful.
+
+## Week 5
+Worked on setting up a server during the comp160 lecture. We ran into problems such as installing the PuTTY client where it wouldn't give us permission and generally lost on what to do. We watched a nearby group and followed their process to get a better understanding. 
+
+## Week 6
+Mostly focused on our BA group project again. A few of us came in the studio to finish and contine some work, even during our free-days. It would've been favourable to have everyone work and communicate simultaneously, but we made the best out of the situation and focused on completing the necessary features our game needed. 
+
+## Week 7
+This week was our viva week for our comp140/Arduino projects. I had my game concept ready and written on Github, however the game itself was lacking. This was mostly due to the amount of work we've had to do with our BA game project, which outweighed all our other ones. As a result, the viva session left much to be desired. This was sort of a wake up call that reminded me to temporarily detach myself from our BA project and use slightly more time on my personal ones. 
