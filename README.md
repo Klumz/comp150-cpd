@@ -65,11 +65,10 @@ This week was our show and tell week. We worked intensively on our BA project on
 This was an intense week as we had multiple approaching deadlines, such as our comp160 essay and comp130 journal. A challenge was finding good, relevant sources for my papers, as they often weren't specific enough to my topic or were 60+ pages long. Further research will need to be done.
 
 ## Week 10
-During this week, I was meant to focus on our group game and fix bugs, although ended up being something I neglected, as I unfortunately had other work with higher priority level to finish. Luckily, one of our programmers in our group managed to fix a fair amount of bugs which was well worth it.
-
+During this week, I was meant to focus on our group game and fix bugs before our submission, although ended up being something I neglected, as I unfortunately had other work to finish. Luckily, one of our programmers in our group managed to fix a fair amount of bugs which was well worth it.
 
 ## Week 11
-This week, I participated in the group submission with our BA team which was a relief. I enjoyed myself, and it was a pleasure working with the team I was given. A challenge this week, though, is finishing my custom controller. Due to my poor task prioritisation, I have not made much progress with it. I will ask either Al or Brian for help to complete my controller and get it properly working with my Unreal game.
+This week, I participated in the group submission with our BA team which was a relief. I enjoyed myself, and it was a pleasure working with the team I was paired with. A challenge this week, though, is finishing my custom controller. Due to my poor task prioritisation, I have not made much progress with it. I will ask either Al or Brian for help to complete my controller and get it properly working with my Unreal game.
 
 ## Link to source that I mentioned in the report:
 http://www.userfocus.co.uk/articles/prioritise.html
