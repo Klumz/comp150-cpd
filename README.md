@@ -70,5 +70,5 @@ During this week, I was meant to focus on our group game and fix bugs before our
 ## Week 11
 This week, I participated in the group submission with our BA team which was a relief. I enjoyed myself, and it was a pleasure working with the team I was paired with. A challenge this week, though, is finishing my custom controller. Due to my poor task prioritisation, I have not made much progress with it. I will ask either Al or Brian for help to complete my controller and get it properly working with my Unreal game.
 
-## Link to source that I mentioned in the report:
+## Link to source that I mentioned in report2:
 http://www.userfocus.co.uk/articles/prioritise.html
