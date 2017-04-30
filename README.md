@@ -62,3 +62,8 @@ This week was viva week for our comp140/Arduino projects. I had my game concept 
 This week was our show and tell week. We worked intensively on our BA project once again to finish and polish things before the actual showing. During the showing itself, our BA members did a great job at presenting and answered the audience's questions gracefully. I will continue working on the game with the team, although will prioritise our other projects more from now. 
 
 ## Week 9
+
+
+
+
+http://www.userfocus.co.uk/articles/prioritise.html
